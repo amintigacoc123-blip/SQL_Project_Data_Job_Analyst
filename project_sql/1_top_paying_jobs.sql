@@ -23,4 +23,4 @@ where
     salary_year_avg is not NULL
 order by 
     salary_year_avg desc
-limit 10
+limit 5
